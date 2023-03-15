@@ -1,11 +1,9 @@
 # 02_challenge_refactor_code
- GT BootCamp 02-challenge: refactor the code
+ My first challenge in the coding boot camp was asking me to refactor the given code. Before, the code had some debugging and was unorganized. In this challenge, I learned that it's important for code to be clear for other developers to review my code. Also, I learned that adding comments is very important for a developer to give clear code.
 
 ## User Story
 
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+When I clcik the name 
 
 ## Acceptance Criteria
 
