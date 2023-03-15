@@ -3,7 +3,9 @@
 
 ## User Story
 
-When I clcik the name 
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
 
 ## Acceptance Criteria
 
@@ -19,6 +21,9 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-## web page
+## Image of web page
+01-html-css-git-homework-demo.png
 
-https://badralmadhi.github.io/02-challenge/
+## Web page
+
+https://badralmadhi.github.io/code_refactor/
